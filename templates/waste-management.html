@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>ComingSoon - Bootstrap Coming Soon Template</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link
+    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,600,600i,700,700i"
+    rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/Style2.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: ComingSoon
+  * Updated: Mar 09 2023 with Bootstrap v5.2.3
+  * Template URL: https://bootstrapmade.com/comingsoon-free-html-bootstrap-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+<style> </style>
+<body>
+
+  <!--======= Header ======= -->
+ <header id="header" class="d-flex align-items-center">
+    <div class="container d-flex flex-column align-items-center"> 
+
+     <div class="container">
+      <h1 class="jumbotron">Waste Classification</h1>
+      <br><br>
+      <form class="form-horizontal" action="/submit" method="post" enctype="multipart/form-data">
+    
+        <div class="form-group">
+          <label class="control-label col-sm-2" for="pwd">Upload Your Image :</label>
+          <div class="col-sm-10">          
+            <input type="file" class="form-control" placeholder="Hours Studied"  name="my_image" id="pwd">
+          </div>
+        </div>
+    <br>
+        <div class="form-group">        
+          <div class="col-sm-offset-2 col-sm-10">
+            <button type="submit" class="btn btn-success">Submit</button>
+          </div>
+        </div>
+      </form>
+    <br>
+      {% if prediction %}
+      <h2> <b>Your Prediction   : <i> {{prediction}} </i></b></h2>
+    
+      {% endif %}
+    
+    </div> 
+    </div> 
+
+  </header><!-- End #header -->
+
+  
+
+
+    <!-- Vendor JS Files -->
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendor/php-email-form/validate.js"></script>
+
+    <!-- Template Main JS File -->
+    <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
