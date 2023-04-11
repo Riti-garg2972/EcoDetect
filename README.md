@@ -75,13 +75,13 @@ Our plant disease detection service provides a wide range of services to users, 
 
 ### 4. Crop disease Detection
 <pre>
-<img src="https://user-images.githubusercontent.com/78292851/188286150-4a33fb29-2fee-417b-8f1d-817c02276625.png" width="1010"> <img src="https://user-images.githubusercontent.com/78292851/188286168-94f6d58b-a990-43e3-a1ec-fd32bcee367a.png" width="1010"> <img src="https://user-images.githubusercontent.com/78292851/188286195-44d37d55-4f2e-4fe2-afc4-b1694ace0176.png" width="1010">
+<img src="" width="1010"> <img src="g" width="1010"> <img src="" width="1010">
 
 </pre>
 
 ### 5. Waste Classification
 <pre>
-<img src="https://user-images.githubusercontent.com/78292851/188286218-9493cc87-a091-4b66-80bf-80315f6167ec.png" width="1010"><img src="https://user-images.githubusercontent.com/78292851/188286232-6c6688cd-a60b-40c0-8468-e519b2fc4c67.png" width="1010"> <img src="https://user-images.githubusercontent.com/78292851/188286248-ae86cb3a-b04a-4315-80cd-a9d8a49c63e2.png" width="1010">
+<img src="" width="1010"><img src="" width="1010"> <img src="" width="1010">
 </pre>
 
 
