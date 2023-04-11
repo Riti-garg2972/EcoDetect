@@ -10,7 +10,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/Riti-garg2972/EcoDetect?label=Stars&logo=github&style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues/Riti-garg2972/EcoDetect?label=Issues&color=yellow&logo=github&style=flat-square)
 
-![image](https://user-images.githubusercontent.com/78292851/231179223-a1534c74-2329-4deb-be94-328e8567c18a.png)
+![image](https://user-images.githubusercontent.com/77539332/231228727-4ffa0833-fc21-4199-8a91-412f20b3e85a.png)
 <br><br>
 
 
