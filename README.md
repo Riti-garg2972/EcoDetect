@@ -10,7 +10,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/jayeshshaw/MindCare?label=Stars&logo=github&style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues/jayeshshaw/MindCare?label=Issues&color=yellow&logo=github&style=flat-square)
 
-![image](https://user-images.githubusercontent.com/78292851/188284903-1e3ee4db-0612-4ab0-b463-b7be8c920c63.png)
+![image](https://user-images.githubusercontent.com/78292851/231179223-a1534c74-2329-4deb-be94-328e8567c18a.png)
 <br><br>
 
 
