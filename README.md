@@ -57,17 +57,20 @@ Our plant disease detection service provides a wide range of services to users, 
 
 ### 1. Home Page
 <pre>
-<img src="" width="1010"> <img src="" width="1010"> 
+<img src="![image](https://user-images.githubusercontent.com/77539332/231226916-025cf042-b739-446d-bbd6-6110255dcf17.png)
+" width="1010"> <img src="" width="1010"> 
 </pre>
 
 ### 2. About Us
 <pre>
-<img src="" width="1010"> 
+<img src="![image](https://user-images.githubusercontent.com/77539332/231226997-f8327272-6c97-4712-8f64-55c7a4fccb36.png)
+" width="1010"> 
 </pre>
 
 ### 3. Services Section
 <pre>
-<img src="" width="1010"> <img src="" width="1010"> 
+<img src="![image](https://user-images.githubusercontent.com/77539332/231227063-c31c4ea4-c14d-4923-8b2c-d678a898e1dd.png)
+" width="1010"> <img src="" width="1010"> 
 
 </pre>
 
@@ -75,13 +78,15 @@ Our plant disease detection service provides a wide range of services to users, 
 
 ### 4. Crop disease Detection
 <pre>
-<img src="" width="1010"> <img src="g" width="1010"> <img src="" width="1010">
+<img src="![image](https://user-images.githubusercontent.com/77539332/231227240-23399563-2c5d-4531-b000-b394bac69ae3.png)
+" width="1010"> <img src="g" width="1010"> <img src="" width="1010">
 
 </pre>
 
 ### 5. Waste Classification
 <pre>
-<img src="" width="1010"><img src="" width="1010"> <img src="" width="1010">
+<img src="![image](https://user-images.githubusercontent.com/77539332/231227362-564e2c35-63be-4f07-a8e8-5971ba9190ec.png)
+" width="1010"><img src="" width="1010"> <img src="" width="1010">
 </pre>
 
 
